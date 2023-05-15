@@ -11,9 +11,9 @@ this course will give the ability to create maps of environments, localize the r
 * This course can serve as an introduction to be able to better understand the official ROS Navigation documentation or external Navigation documentation and projects.
 
 ## How to run the project code?
-1.open the project files in pycharm.
-2.open new terminal and $ pip install opencv_python
-3.do $pip install imutils, and $pip install utils.
+1. open the project files in pycharm.
+2. open new terminal and `$pip install opencv_python`.
+3. do `$pip install imutils`, and `$pip install utils`.
 4. run and dubbag.
   
 
